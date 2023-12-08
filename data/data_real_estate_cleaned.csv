@@ -1,0 +1,2649 @@
+Gross Area,Interior Area,Bedrooms,Baths,Floor,Type,Status,Price,City
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,1.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,1.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,1.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,1.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,1.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,1.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,1.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,1.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,1.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,1.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,1.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,1.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,1.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,1.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,1.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,1.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,1.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,1.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,1.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,1.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,1.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,1.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,1.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,1.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,1.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,1.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,1.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,1.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,1.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,1.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,1.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,1.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,1.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,1.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,1.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,1.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,1.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,1.0,2.0,5.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,1.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,1.0,1.0,2.0,Land ,Used ,50000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,57000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,1.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,1.0,1.0,1.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,1.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,1.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,1.0,2.0,5.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,1.0,2.0,5.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,1.0,1.0,1.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,1.0,1.0,2.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,50000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+197.0,157.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+178.0,141.0,1.0,1.0,2.0,Apartment ,Under Construction ,170000.0,Tirana
+182.0,145.0,2.0,1.0,1.0,Apartment ,Under Construction ,57000.0,Tirana
+168.0,72.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+39.0,30.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,26000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Himarë
+180.0,84.0,1.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+85.0,66.0,1.0,2.0,5.0,Multipurpose space ,Used ,50000.0,Tirana
+76.0,58.0,2.0,2.0,5.0,Multipurpose space ,Used ,150000.0,Tirana
+96.78,96.78,2.0,1.0,1.0,Parking ,New ,26000.0,Tirana
+86.0,68.0,2.0,1.0,2.0,Apartment ,Under Construction ,170000.0,Tirana
+197.0,157.0,2.0,1.0,1.0,Apartment ,Under Construction ,57000.0,Tirana
+178.0,141.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+182.0,145.0,1.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+168.0,72.0,1.0,1.0,2.0,Apartment ,Under Construction ,26000.0,Himarë
+39.0,30.0,2.0,2.0,5.0,Multipurpose space ,Used ,170000.0,Tirana
+1104.0,1104.0,2.0,2.0,5.0,Land ,Used ,57000.0,Tirana
+91.0,38.0,2.0,2.0,5.0,Apartment ,Under Construction ,50000.0,Himarë
+180.0,84.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+76.0,58.0,1.0,1.0,2.0,Multipurpose space ,Used ,170000.0,Tirana
+96.78,96.78,1.0,1.0,1.0,Parking ,New ,57000.0,Tirana
+86.0,68.0,2.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Tirana
+197.0,157.0,2.0,1.0,2.0,Apartment ,Under Construction ,150000.0,Tirana
+178.0,141.0,2.0,1.0,2.0,Apartment ,Under Construction ,26000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Himarë
+39.0,30.0,1.0,2.0,5.0,Multipurpose space ,Used ,50000.0,Tirana
+1104.0,1104.0,1.0,2.0,5.0,Land ,Used ,150000.0,Tirana
+91.0,38.0,2.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Himarë
+180.0,84.0,2.0,1.0,2.0,Apartment ,Under Construction ,170000.0,Himarë
+85.0,66.0,2.0,1.0,1.0,Multipurpose space ,Used ,57000.0,Tirana
+76.0,58.0,2.0,1.0,1.0,Multipurpose space ,Used ,50000.0,Tirana
+96.78,96.78,2.0,1.0,2.0,Parking ,New ,150000.0,Tirana
+86.0,68.0,1.0,1.0,2.0,Apartment ,Under Construction ,26000.0,Tirana
+197.0,157.0,1.0,2.0,5.0,Apartment ,Under Construction ,170000.0,Tirana
+178.0,141.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+182.0,145.0,2.0,2.0,5.0,Apartment ,Under Construction ,50000.0,Tirana
+168.0,72.0,2.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,26000.0,Tirana
+1104.0,1104.0,2.0,1.0,2.0,Land ,Used ,170000.0,Tirana
+91.0,38.0,1.0,1.0,1.0,Apartment ,Under Construction ,57000.0,Himarë
+180.0,84.0,1.0,1.0,1.0,Apartment ,Under Construction ,50000.0,Himarë
+85.0,66.0,2.0,1.0,2.0,Multipurpose space ,Used ,150000.0,Tirana
+76.0,58.0,2.0,1.0,2.0,Multipurpose space ,Used ,26000.0,Tirana
+96.78,96.78,2.0,2.0,5.0,Parking ,New ,170000.0,Tirana
+86.0,68.0,2.0,2.0,5.0,Apartment ,Under Construction ,57000.0,Tirana
+197.0,157.0,2.0,2.0,5.0,Apartment ,Under Construction ,50000.0,Tirana
+178.0,141.0,1.0,2.0,5.0,Apartment ,Under Construction ,150000.0,Tirana
+182.0,145.0,1.0,1.0,1.0,Apartment ,Under Construction ,26000.0,Tirana
+168.0,72.0,2.0,1.0,2.0,Apartment ,Under Construction ,170000.0,Himarë
+39.0,30.0,2.0,1.0,1.0,Multipurpose space ,Used ,57000.0,Tirana
+1104.0,1104.0,2.0,1.0,1.0,Land ,Used ,50000.0,Tirana
